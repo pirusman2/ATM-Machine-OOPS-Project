@@ -23,13 +23,13 @@ User input handling via Scanner
 
 Conditional Logic (if-else)
 
-📂 Project Structure
+ Project Structure
 Plaintext
 ├── src/
 │   ├── Main.java     # Entry point of the application
 │   └── ATM.java      # Contains ATM logic and data
 └── README.md         # Project documentation
-📖 How to Run
+ How to Run
 Ensure you have JDK (Java Development Kit) installed on your machine.
 
 Clone this repository:
