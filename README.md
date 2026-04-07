@@ -1,4 +1,4 @@
-ATM Machine - OOPS Project 💳
+ATM Machine - OOPS Project 
 A simple, console-based Java application that simulates the core functionalities of an Automated Teller Machine (ATM). This project demonstrates the use of Object-Oriented Programming principles such as classes, objects, and method encapsulation.
 
  Features
